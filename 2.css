@@ -1,0 +1,25 @@
+
+
+
+body {
+	
+    font-family: Arial, Helvetica, sans-serif;
+	background-image: url("ami.jpg");
+	text-decoration: all;
+
+}
+p {
+	color: rgba(255,0,255,1);
+	text-align: center;
+}
+
+
+
+
+
+h3 {
+	text-align: center;
+}
+nav {
+	text-align: center;
+}
